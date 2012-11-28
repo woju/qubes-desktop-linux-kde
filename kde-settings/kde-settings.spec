@@ -14,7 +14,7 @@ Requires: kde-filesystem
 Requires: oxygen-icon-theme
 Requires: xdg-user-dirs
 Requires: coreutils
-Conflicts: Xorg < 1.10
+Requires: Xorg >= 1.10
 Provides: kde-settings-dom0
 
 ###############################################################
